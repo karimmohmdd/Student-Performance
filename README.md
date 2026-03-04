@@ -1,4 +1,3 @@
-# Student-Performance
 # 🎓 Student Exam Score Prediction
 
 ## 📌 Project Overview
